@@ -4,6 +4,7 @@ in this project we analyzed the dynamics of how different set of attibutes like 
 
 ## Understanding the Dataset
 The dataset we are working on is Crunchbase-Companies data 
+Data set Link : https://drive.google.com/file/d/17bfNyMgP-PofCkdlvnLHxxFqV8mdDo-9/view
 
 - The news dataset contains all the details related to the company including when it was created how much funding it got, how many relationships it had and much more.
 
